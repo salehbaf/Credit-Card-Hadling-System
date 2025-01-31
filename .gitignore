@@ -1,1 +1,11 @@
 .vs/ 
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+x64/
+*.exe
+*.obj
+*.idb
+*.ipch
+*.pdb
