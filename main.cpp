@@ -1,18 +1,3 @@
-/***********************************************************************
-// OOP244 Workshop 3 lab: tester program
-//
-// File	main.cpp
-// Version 1.0
-// Date	2024/09/11
-// Author	Fardad Soleimanloo
-// Description
-//
-// Revision History
-// -----------------------------------------------------------
-// Name  Saleh Bafagih        Date            Reason
-//
-/////////////////////////////////////////////////////////////////
-***********************************************************************/
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <cstdio>
